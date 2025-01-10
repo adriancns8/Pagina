@@ -94,12 +94,9 @@ Bootstrap ayuda a que el diseño sea responsivo, es decir, que se adapte a difer
 - **`navbar-expand-lg`** hace que la barra de navegación se expanda en pantallas grandes y se colapse en pantallas pequeñas.
 - Las tarjetas dentro de las secciones de "Proyectos" usan clases como **`col-md-4`**, que definen el ancho de las columnas en pantallas medianas (y más grandes), asegurando que las tarjetas se ajusten bien en dispositivos móviles y en pantallas grandes.
 
-### Conclusión
 Bootstrap está siendo utilizado en este código principalmente para:
 
 - Crear una **barra de navegación responsiva**.
 - Organizar el **contenido en contenedores y columnas** que se adaptan a diferentes tamaños de pantalla.
 - Estilizar los **botones, tarjetas e íconos** para darles una apariencia moderna y atractiva.
 - Asegurar que el diseño sea **responsivo**, es decir, que se vea bien tanto en dispositivos móviles como en pantallas más grandes.
-
-Al integrar Bootstrap, facilitas la creación de un diseño consistente, flexible y adaptado a dispositivos de diferentes tamaños sin necesidad de escribir CSS personalizado desde cero.
